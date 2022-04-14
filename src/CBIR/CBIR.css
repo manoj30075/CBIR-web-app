@@ -1,0 +1,84 @@
+.CBIR-main {
+
+}
+
+.CBIR-search {
+    background-color: #1371b9;
+}
+
+.CBIR-search-p {
+    font-style: normal;
+    font-weight: 700;
+    color: #fff!important;
+    font-size: 64px;
+    line-height: 76.8px;
+    margin-top: 0px;
+    margin-bottom: 0;
+    padding-top: 88px;
+    text-align: center;
+}
+
+.CBIR-search-input-text {
+    width: 40%;
+    height: 44px;
+    float: left;
+    margin-top: 20px;
+    font-size: 19px;
+    border: 2px solid #707372;
+    padding-right: 45px;
+}
+
+.CBIR-search-input-dropdown {
+    width:35%;
+    height: 44px;
+    float: left;
+    margin-top: 20px;
+    font-size: 19px;
+    border: 2px solid #707372;
+    padding-right: 45px;
+}
+
+.CBIR-search-button {
+    width: 20%;
+    height: 44px;
+    float: left;
+    margin-top: 20px;
+    font-size: 19px;
+    border: 2px solid #707372;
+}
+
+input[type=text][placeholder] {
+    color: rebeccapurple;
+}
+
+.CBIR-query-image {
+    border: 2px solid #707372;
+    text-align: center;
+    margin: 10px!important;
+    max-height: 500px;
+}
+
+.CBIR-query-image image {
+    display: block;
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+    padding: 20px;
+}
+
+.CBIR-image {
+    border: 2px solid #707372;
+    text-align: center;
+    margin: 10px!important;
+    max-height: 500px;
+}
+
+.CBIR-image img {
+    display: block;
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+    padding: 20px;
+}
+
+.CBIR-images-container {
+    margin: 20px 10% 20px 10%;
+}
