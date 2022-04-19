@@ -21,7 +21,7 @@ const CBIR = () => {
     }
 
     const handleSubmit = () => {
-        Axios.post(`http://localhost:8000/cbir`, {
+        Axios.post(`http://18.205.21.222/cbir`, {
             url: urlInput,
             type: imageRetrivalType
         })
